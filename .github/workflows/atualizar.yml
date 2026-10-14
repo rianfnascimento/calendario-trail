@@ -1,0 +1,116 @@
+name: Atualizar calendário
+
+# Quando roda:
+#  - dia 1 de cada mês, 06:00 (Recife): varredura completa da Adventure Mag + envios aprovados
+#  - toda segunda, 07:00 (Recife): só os envios aprovados na planilha (não acessa a Adventure Mag)
+#  - quando você clicar em "Run workflow" (escolha o modo)
+#  - quando você alterar o site ou os scripts (ex.: colar o link do formulário em web/config.js)
+on:
+  schedule:
+    - cron: "0 9 1 * *"
+    - cron: "0 10 * * 1"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "envios = só a planilha de envios aprovados · completo = também varre a Adventure Mag"
+        type: choice
+        options: [envios, completo]
+        default: envios
+  push:
+    branches: [main]
+    paths: ["web/**", "scripts/**", "data/geo/**", "data/raw/complementos_oficiais.json"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: atualizar-calendario
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Definir modo
+        id: modo
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "0 9 1 * *" ]; then
+            echo "modo=completo" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "modo=${{ inputs.modo }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "push" ]; then
+            echo "modo=site" >> "$GITHUB_OUTPUT"
+          else
+            echo "modo=envios" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Varrer a Adventure Mag (só provas novas ou alteradas)
+        if: steps.modo.outputs.modo == 'completo'
+        run: python3 scripts/collect.py
+
+      - name: Baixar envios aprovados da planilha
+        env:
+          CSV_URL: ${{ vars.SUBMISSOES_CSV_URL }}
+        run: |
+          if [ -z "$CSV_URL" ]; then
+            echo "Planilha de envios ainda não configurada (variável SUBMISSOES_CSV_URL)."
+          elif curl -fsSL --retry 3 --max-time 60 "$CSV_URL" -o /tmp/envios.csv && head -1 /tmp/envios.csv | grep -q "data_inicio"; then
+            mv /tmp/envios.csv data/raw/submissoes_aprovadas.csv
+          else
+            echo "::warning::Não consegui baixar a planilha de envios; mantive a versão anterior."
+          fi
+
+      - name: Montar a base (valida antes de gravar)
+        run: python3 scripts/build_db.py
+
+      - name: Testar dados e filtros
+        run: |
+          python3 tests/test_data.py
+          node tests/test_filters.js
+
+      - name: Gerar o site
+        run: python3 scripts/bundle.py
+
+      - name: Gravar alterações no repositório
+        id: gravar
+        run: |
+          git config user.name "robo-calendario"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          MODO="${{ steps.modo.outputs.modo }}"
+          # Execução automática de segunda sem envio novo: não republica. Execução manual sempre publica.
+          if [ "$MODO" = "envios" ] && [ "${{ github.event_name }}" = "schedule" ] && git diff --quiet -- data/raw/submissoes_aprovadas.csv && ! git ls-files --others --exclude-standard data/raw | grep -q .; then
+            echo "Nenhum envio novo aprovado; nada a publicar."
+            echo "publicar=nao" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git add data web/data
+          if git diff --cached --quiet; then
+            echo "Sem mudanças nos dados."
+          else
+            git commit -m "Atualização automática ($MODO) $(date -u +%F)"
+            git push
+          fi
+          echo "publicar=sim" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/configure-pages@v5
+        if: steps.gravar.outputs.publicar == 'sim'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.gravar.outputs.publicar == 'sim'
+        with:
+          path: dist
+
+      - id: deploy
+        if: steps.gravar.outputs.publicar == 'sim'
+        uses: actions/deploy-pages@v4
