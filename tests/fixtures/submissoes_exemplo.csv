@@ -1,0 +1,7 @@
+enviado_em,nome,data_inicio,data_fim,uf,cidade,local_largada,coordenadas,distancias,altimetria,modalidade,situacao,organizador,site,inscricao
+2026-10-15T10:00:00,EXEMPLO Trail Serra de Gravatá 2027,2027-03-20,2027-03-21,PE — Pernambuco,Gravatá,Parque da Serra,"-8.2050, -35.5600","42, 21, 10",1.850,Trail run,Confirmada,Organização Exemplo,https://exemplo-trail.com.br,https://www.ticketsports.com.br/e/exemplo
+2026-10-16T09:30:00,Matutos Trail Run 2026,25/10/2026,,PE — Pernambuco,Caruaru,,,"21, 10, 5",650,Trail run,Confirmada,Matutos Eventos,,sympla.com.br/evento/matutos-exemplo
+2026-10-16T11:00:00,EXEMPLO prova sem estado,2027-02-01,,,Recife,,,10,,Trail run,Confirmada,Fulano,,
+2026-10-17T08:00:00,EXEMPLO Desafio Bonito PE 2027,2027-04-10,,PE — Pernambuco,Bonito,,"-8.0466, -34.8771",15,,Trail run,Confirmada,Organização Exemplo,,
+2026-10-17T08:30:00,EXEMPLO Corrida Vila Inexistente,2027-05-02,,PE — Pernambuco,Vila Inexistente,,,8,,Trail run,Confirmada,Organização Exemplo,,
+,,,,,,,,,,,,,,

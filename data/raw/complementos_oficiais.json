@@ -1,0 +1,156 @@
+{
+ "_descricao": "Dados complementares obtidos em fontes oficiais (site do organizador). Cada entrada é mantida separada dos dados da Adventure Mag e exibida como tal na interface.",
+ "complementos": [
+  {
+   "adventuremag_id": "11306",
+   "fonte_url": "https://mountaindo.com.br/raizes/fernandodenoronha/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    21,
+    8
+   ],
+   "local_largada": "Porto de Santo Antônio, Fernando de Noronha (PE)",
+   "link_inscricao": "https://app.sprinta.com.br/event/32945469bd5f6b88b44",
+   "divergencias": [
+    "A página oficial mostra 11/09/2027 no destaque, mas a seção de programação ainda indica 05/09/2026 (provável conteúdo da edição anterior). O link de inscrição pode ser da edição 2026."
+   ]
+  },
+  {
+   "adventuremag_id": "10912",
+   "fonte_url": "https://mountaindo.com.br/elements/sahara/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    65,
+    35,
+    10
+   ],
+   "divergencias": []
+  },
+  {
+   "adventuremag_id": "10601",
+   "fonte_url": "https://mountaindo.com.br/raizes/chapadadosveadeiros/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    21,
+    14,
+    7
+   ],
+   "divergencias": []
+  },
+  {
+   "adventuremag_id": "10576",
+   "fonte_url": "https://mountaindo.com.br/trail-run/desafiopedrabranca/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    15,
+    9,
+    5
+   ],
+   "divergencias": [
+    "Data divergente: Adventure Mag publica 18/10/2026; o site do organizador indica 'novembro de 2026'."
+   ]
+  },
+  {
+   "adventuremag_id": "11305",
+   "fonte_url": "https://mountaindo.com.br/elements/mountain-do-colonia-de-sacramento/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    15,
+    8
+   ],
+   "divergencias": []
+  },
+  {
+   "adventuremag_id": "11183",
+   "fonte_url": "https://mountaindo.com.br/raizes/praiadorosa/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    20,
+    11,
+    5
+   ],
+   "divergencias": []
+  },
+  {
+   "adventuremag_id": "11307",
+   "fonte_url": "https://mountaindo.com.br/raizes/costao-do-santinho/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    42,
+    21,
+    9,
+    5
+   ],
+   "divergencias": []
+  },
+  {
+   "adventuremag_id": "11304",
+   "fonte_url": "https://mountaindo.com.br/elements/mountain-do-deserto-da-namibia/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    42,
+    21,
+    10
+   ],
+   "divergencias": [
+    "O link publicado pela Adventure Mag aponta para a página da prova do Sahara; a página correta do organizador é a consultada."
+   ]
+  },
+  {
+   "adventuremag_id": "11302",
+   "fonte_url": "https://mountaindo.com.br/elements/mountain-do-fim-do-mundo/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    42,
+    21,
+    10
+   ],
+   "divergencias": []
+  },
+  {
+   "adventuremag_id": "11308",
+   "fonte_url": "https://mountaindo.com.br/raizes/selvaamazonica/",
+   "verificado_em": "2026-10-14",
+   "distancias_km": [
+    21,
+    9,
+    5
+   ],
+   "divergencias": [
+    "Cidade divergente: Adventure Mag indica Amapá (AP); o site do organizador indica Macapá (AP)."
+   ]
+  }
+ ],
+ "tentativas_sem_dados": [
+  {
+   "adventuremag_id": "11214",
+   "fonte_url": "https://soucorredor.com.br/evento/6474/desafio_em_trilhas_dt%C3%82%C2%B4s_2026_-_etapa_terra/2",
+   "motivo": "Página não exibe data, distâncias nem altimetria.",
+   "verificado_em": "2026-10-14"
+  },
+  {
+   "adventuremag_id": "11213",
+   "fonte_url": "https://www.race83.com.br/evento/2026/trail-run/desafio-milhas-trilhos-trilhas-dmtt",
+   "motivo": "Conteúdo carregado por JavaScript; página mostra apenas 'Inscrição indisponível'.",
+   "verificado_em": "2026-10-14"
+  },
+  {
+   "adventuremag_id": "11186",
+   "fonte_url": "https://www.chipower.com.br/evento/2027/trail-run/elements-trail-run-2027",
+   "motivo": "Conteúdo carregado por JavaScript; página mostra apenas 'Inscrição indisponível'.",
+   "verificado_em": "2026-10-14"
+  },
+  {
+   "adventuremag_id": "10734",
+   "fonte_url": "https://mountaindo.com.br/",
+   "motivo": "Site do organizador só lista a edição de 27/11/2027; a edição de 07/11/2026 publicada pela Adventure Mag não aparece. Distâncias não aplicadas.",
+   "verificado_em": "2026-10-14"
+  },
+  {
+   "adventuremag_id": "11072",
+   "fonte_url": "https://mountaindo.com.br/",
+   "motivo": "Site do organizador só lista a edição de 31/10/2026; distâncias da edição 2027 não aplicadas.",
+   "verificado_em": "2026-10-14"
+  }
+ ]
+}

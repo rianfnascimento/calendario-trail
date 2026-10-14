@@ -1,0 +1,212 @@
+<title>Calendário Trail Brasil</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Provas de trail running no Brasil por estado, região e data. Dados da Adventure Mag.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="css/app.css">
+<!--INLINE_CSS-->
+
+<div class="app" id="app">
+  <header class="top">
+    <div class="brand">
+      <h1>Calendário Trail Brasil</h1>
+      <p class="sub" id="sub">Carregando provas…</p>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Modo de exploração">
+      <button role="tab" id="tab-map" aria-selected="true" data-view="map">Mapa</button>
+      <button role="tab" id="tab-cal" aria-selected="false" data-view="cal">Calendário</button>
+      <button role="tab" id="tab-next" aria-selected="false" data-view="next">Próximas</button>
+    </nav>
+    <a class="cta-add" data-form-link href="#" target="_blank" rel="noopener" hidden>+ Cadastrar prova</a>
+  </header>
+
+  <section class="toolbar" aria-label="Busca e filtros">
+    <div class="search">
+      <label for="q" class="sr">Buscar prova ou cidade</label>
+      <input id="q" type="search" placeholder="Buscar prova ou cidade" autocomplete="off">
+    </div>
+    <button id="btn-filters" class="btn-filters" aria-expanded="false" aria-controls="filters">
+      Filtros <span id="filter-count" class="badge" hidden>0</span>
+    </button>
+  </section>
+
+  <form id="filters" class="filters" hidden>
+    <div class="fgrid">
+      <label class="field"><span>Região</span>
+        <select id="f-region"><option value="">Todas</option></select></label>
+      <label class="field"><span>Estado</span>
+        <select id="f-uf"><option value="">Todos</option></select></label>
+      <label class="field"><span>Cidade</span>
+        <select id="f-city" disabled><option value="">Todas</option></select></label>
+      <label class="field"><span>Ano</span>
+        <select id="f-year"><option value="">Todos</option></select></label>
+      <label class="field"><span>Mês</span>
+        <select id="f-month"><option value="">Todos</option></select></label>
+      <label class="field"><span>De</span><input id="f-from" type="date"></label>
+      <label class="field"><span>Até</span><input id="f-to" type="date"></label>
+      <fieldset class="field range">
+        <legend>Distância (km)</legend>
+        <div class="pair">
+          <label for="f-kmmin" class="sr">Distância mínima</label>
+          <input id="f-kmmin" type="number" min="0" step="1" inputmode="numeric" placeholder="mín.">
+          <span aria-hidden="true">–</span>
+          <label for="f-kmmax" class="sr">Distância máxima</label>
+          <input id="f-kmmax" type="number" min="0" step="1" inputmode="numeric" placeholder="máx.">
+        </div>
+        <small id="km-note"></small>
+      </fieldset>
+      <fieldset class="field status">
+        <legend>Status</legend>
+        <div class="opts">
+        <label><input type="checkbox" id="st-agendado" value="agendado" checked> Agendada</label>
+        <label><input type="checkbox" id="st-data_alterada" value="data_alterada" checked> Nova data</label>
+        <label><input type="checkbox" id="st-adiado" value="adiado" checked> Adiada</label>
+        <label><input type="checkbox" id="st-cancelado" value="cancelado" checked> Cancelada</label>
+        </div>
+      </fieldset>
+      <fieldset class="field toggles">
+        <legend>Mais opções</legend>
+        <label><input type="checkbox" id="f-elev"> Só com altimetria informada <small id="elev-note"></small></label>
+        <label><input type="checkbox" id="f-abroad"> Incluir provas no exterior</label>
+        <label><input type="checkbox" id="f-past"> Incluir provas já realizadas</label>
+      </fieldset>
+    </div>
+    <div class="factions">
+      <button type="button" id="btn-clear" class="link">Limpar filtros</button>
+      <button type="button" id="btn-close" class="primary">Ver <span id="close-count">0</span> provas</button>
+    </div>
+  </form>
+
+  <div class="status-line" aria-live="polite">
+    <span id="result-count"></span>
+    <button type="button" id="btn-clear-inline" class="link" hidden>Limpar filtros</button>
+  </div>
+
+  <main id="error" class="error" hidden></main>
+
+  <!-- Mapa: nível 1 (Brasil/estados) e nível 2 (estado/cidades) -->
+  <section id="view-map" class="view view-map" role="tabpanel" aria-labelledby="tab-map" data-level="br" data-sub="map">
+    <div class="geo-head">
+      <nav class="crumbs" id="crumbs" aria-label="Nível geográfico"></nav>
+      <div class="sel-head">
+        <div>
+          <p class="eyebrow" id="sel-eyebrow">Brasil</p>
+          <h2 id="sel-title">Todas as provas</h2>
+        </div>
+        <button type="button" id="btn-national" class="back" hidden>Mapa do Brasil</button>
+      </div>
+      <div class="subtabs" id="subtabs" role="tablist" aria-label="Ver mapa, cidades ou provas" hidden>
+        <button type="button" role="tab" data-sub="map" class="sub-map" id="sub-map">Mapa</button>
+        <button type="button" role="tab" data-sub="cities" id="sub-cities">Cidades <span class="n" id="n-cities"></span></button>
+        <button type="button" role="tab" data-sub="events" id="sub-events">Provas <span class="n" id="n-events"></span></button>
+      </div>
+    </div>
+    <div class="map-col" id="map-col">
+      <div class="regions" role="group" aria-label="Regiões">
+        <button type="button" data-region="" aria-pressed="true">Brasil</button>
+        <button type="button" data-region="Norte" aria-pressed="false">Norte</button>
+        <button type="button" data-region="Nordeste" aria-pressed="false">Nordeste</button>
+        <button type="button" data-region="Centro-Oeste" aria-pressed="false">Centro-Oeste</button>
+        <button type="button" data-region="Sudeste" aria-pressed="false">Sudeste</button>
+        <button type="button" data-region="Sul" aria-pressed="false">Sul</button>
+      </div>
+      <div id="map" class="map-wrap"></div>
+      <div id="statemap" class="map-wrap statemap" hidden></div>
+      <div class="map-foot">
+        <div class="legend br-legend" aria-label="Legenda: número de provas por estado">
+          <span class="lg-title">Provas por estado</span>
+          <span class="sw c0"></span><span>0</span>
+          <span class="sw c1"></span><span>1–2</span>
+          <span class="sw c2"></span><span>3–5</span>
+          <span class="sw c3"></span><span>6–10</span>
+          <span class="sw c4"></span><span>11–20</span>
+          <span class="sw c5"></span><span>21+</span>
+        </div>
+        <div class="legend st-legend" hidden>
+          <span class="mk"></span><span>Cidade com provas (número = provas). Marcador na sede do município: localização aproximada.</span>
+          <span class="mk grp"></span><span>Cidades próximas agrupadas (número = provas do grupo); toque para ampliar.</span>
+        </div>
+        <label class="state-pick"><span>Estado</span>
+          <select id="pick-uf" aria-label="Escolher estado na lista"><option value="">Todos os estados</option></select></label>
+      </div>
+      <button type="button" class="see-events" id="see-events" hidden>Ver provas</button>
+    </div>
+    <div class="list-col">
+      <div id="panel-cities" class="panel panel-cities">
+        <div class="cities-head">
+          <span class="eyebrow">Cidades com provas</span>
+          <div class="seg" role="group" aria-label="Ordenar cidades">
+            <button type="button" data-sort="count" aria-pressed="true">Mais provas</button>
+            <button type="button" data-sort="alpha" aria-pressed="false">A–Z</button>
+          </div>
+        </div>
+        <ol id="city-list" class="city-list"></ol>
+      </div>
+      <div id="panel-events" class="panel panel-events">
+        <div id="city-chip" class="city-chip" hidden></div>
+        <p id="sel-note" class="note" hidden></p>
+        <ol id="list-map" class="cards"></ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- Calendário -->
+  <section id="view-cal" class="view view-cal" role="tabpanel" aria-labelledby="tab-cal" hidden>
+    <div class="cal-col">
+      <div class="cal-head">
+        <button type="button" id="cal-prev" class="nav" aria-label="Mês anterior">‹</button>
+        <h2 id="cal-title">—</h2>
+        <button type="button" id="cal-next" class="nav" aria-label="Próximo mês">›</button>
+      </div>
+      <table class="cal" aria-describedby="cal-title">
+        <thead><tr><th>D</th><th>S</th><th>T</th><th>Q</th><th>Q</th><th>S</th><th>S</th></tr></thead>
+        <tbody id="cal-body"></tbody>
+      </table>
+      <p class="cal-hint">Dias marcados têm provas. Toque em um dia para ver a lista.</p>
+    </div>
+    <div class="list-col">
+      <div class="sel-head">
+        <div>
+          <p class="eyebrow" id="cal-eyebrow">Mês</p>
+          <h2 id="cal-list-title">Provas do mês</h2>
+        </div>
+        <button type="button" id="cal-allmonth" class="back" hidden>Ver mês inteiro</button>
+      </div>
+      <ol id="list-cal" class="cards"></ol>
+    </div>
+  </section>
+
+  <!-- Próximas -->
+  <section id="view-next" class="view view-next" role="tabpanel" aria-labelledby="tab-next" hidden>
+    <div id="list-next" class="grouped"></div>
+  </section>
+
+  <aside class="submit-band" data-form-block hidden>
+    <div>
+      <strong>Sua prova não está aqui?</strong>
+      <span>Organizadores e atletas podem enviar uma prova para avaliação. Depois de aprovada, ela entra no calendário e no mapa.</span>
+    </div>
+    <a class="primary" data-form-link href="#" target="_blank" rel="noopener">Cadastrar prova</a>
+  </aside>
+
+  <footer class="foot">
+    <p>Dados coletados de <a href="https://www.adventuremag.com.br/calendario/trail-run/" target="_blank" rel="noopener">Adventure Mag · calendário de trail run</a>, <span id="foot-date"></span>. Distâncias, altimetria e links aparecem só quando publicados pela fonte; complementos de sites oficiais e envios de organizadores (aprovados antes de publicar) são indicados. Confirme sempre no site do organizador antes de se inscrever.</p>
+    <p>Limites estaduais: IBGE, via projeto click_that_hood.</p>
+  </footer>
+</div>
+
+<dialog id="detail" class="detail" aria-labelledby="d-name">
+  <div class="sheet">
+    <button type="button" class="close" id="d-close" aria-label="Fechar detalhes">×</button>
+    <div id="d-body"></div>
+  </div>
+</dialog>
+
+<script src="config.js"></script>
+<script src="data/events.js"></script>
+<script src="data/br-states.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/map.js"></script>
+<script src="js/statemap.js"></script>
+<script src="js/app.js"></script>
+<!--INLINE_JS-->

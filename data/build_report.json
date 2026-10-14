@@ -1,0 +1,204 @@
+{
+ "meta": {
+  "fonte": "Adventure Mag — https://www.adventuremag.com.br/calendario/trail-run/",
+  "coletado_em": "2026-10-14",
+  "atualizado_em": "2026-10-14",
+  "primeira_coleta": "2026-10-14",
+  "novas_nesta_atualizacao": 0,
+  "envios_aprovados": 0,
+  "paginas_listagem": 9,
+  "registros_na_fonte": 259,
+  "eventos_unicos": 257,
+  "eventos_historico": 0,
+  "eventos_brasil": 246,
+  "eventos_exterior": 11,
+  "periodo": [
+   "2026-10-16",
+   "2027-11-20"
+  ],
+  "anos": [
+   2026,
+   2027
+  ],
+  "por_regiao": {
+   "Centro-Oeste": 16,
+   "Nordeste": 52,
+   "Norte": 10,
+   "Sem estado": 5,
+   "Sudeste": 122,
+   "Sul": 41
+  },
+  "por_uf": {
+   "AL": 4,
+   "AM": 1,
+   "AP": 1,
+   "BA": 21,
+   "CE": 6,
+   "DF": 2,
+   "ES": 3,
+   "GO": 7,
+   "MA": 1,
+   "MG": 54,
+   "MS": 5,
+   "MT": 2,
+   "PA": 5,
+   "PB": 10,
+   "PE": 6,
+   "PI": 2,
+   "PR": 8,
+   "RJ": 11,
+   "RN": 1,
+   "RS": 13,
+   "SC": 20,
+   "SE": 1,
+   "SP": 54,
+   "TO": 3,
+   "—": 5
+  },
+  "por_status": {
+   "agendado": 253,
+   "data_alterada": 3,
+   "cancelado": 1
+  },
+  "com_distancia": 14,
+  "com_altimetria": 0,
+  "com_link": 214,
+  "com_coordenadas": 247,
+  "no_mapa_estadual": 235,
+  "sem_localizacao_no_mapa": [
+   "am-10586",
+   "am-10592",
+   "am-11139",
+   "am-11201",
+   "am-11226",
+   "am-11156",
+   "am-10997",
+   "am-11227",
+   "am-11228",
+   "am-11203",
+   "am-11229"
+  ],
+  "municipios_com_provas": 190,
+  "fonte_municipios": "IBGE via kelvins/municipios-brasileiros (sede municipal)",
+  "duplicidades_removidas": [
+   {
+    "nome": "XXIII Corrida Rustica da PMMG em Divinopolis",
+    "ids": [
+     "11184",
+     "11185"
+    ]
+   },
+   {
+    "nome": "100% Trail Run",
+    "ids": [
+     "11210",
+     "11260"
+    ]
+   }
+  ],
+  "confiabilidade": {
+   "media": 54,
+   "alta": 196,
+   "baixa": 7
+  }
+ },
+ "alertas": {
+  "am-10828": [
+   "Link aponta para edição anterior (2025)"
+  ],
+  "am-10576": [
+   "Data divergente: Adventure Mag publica 18/10/2026; o site do organizador indica 'novembro de 2026'."
+  ],
+  "am-10607": [
+   "Grafia normalizada: 'Campos de Goytacazes' → 'Campos dos Goytacazes'"
+  ],
+  "am-11061": [
+   "Link aponta para edição anterior (2024)"
+  ],
+  "am-10586": [
+   "Cidade não informada (fonte cita apenas 'Alagoas')",
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-10592": [
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-10608": [
+   "Grafia normalizada: 'Campos de Goytacazes' → 'Campos dos Goytacazes'"
+  ],
+  "am-10912": [
+   "A sigla 'MA' na fonte refere-se a Marrocos (confirmado pelas coordenadas), não ao Maranhão"
+  ],
+  "am-10851": [
+   "Coordenadas publicadas pela fonte ficam a 134 km da sede de Aquidauana; marcador mantido na sede do município informado"
+  ],
+  "am-11253": [
+   "Ano no nome (2027) difere da data publicada (2026)"
+  ],
+  "am-11139": [
+   "Estado não informado pela fonte",
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-11158": [
+   "Ano no nome (2026) difere da data publicada (2027)"
+  ],
+  "am-11201": [
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-11226": [
+   "Estado não informado pela fonte",
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-11184": [
+   "Publicado 2× na fonte (ids 11184, 11185); contado uma vez"
+  ],
+  "am-11210": [
+   "Páginas duplicadas trazem links diferentes: https://www.races.com.br/100trailrun2027",
+   "Publicado 2× na fonte (ids 11210, 11260); contado uma vez"
+  ],
+  "am-11288": [
+   "Ano no nome (2017) difere da data publicada (2027)"
+  ],
+  "am-11156": [
+   "Localização indisponível no mapa: 'Rota Imperial' não identificado com segurança (Roteiro turístico que atravessa mais de um município; não há como escolher um com segurança.)"
+  ],
+  "am-11304": [
+   "O link publicado pela Adventure Mag aponta para a página da prova do Sahara; a página correta do organizador é a consultada."
+  ],
+  "am-10997": [
+   "Localização indisponível no mapa: 'Jalapão' não identificado com segurança (Região que abrange vários municípios; a fonte não indica qual.)"
+  ],
+  "am-11227": [
+   "Estado não informado pela fonte",
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-11228": [
+   "Estado não informado pela fonte",
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-11203": [
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ],
+  "am-11306": [
+   "A página oficial mostra 11/09/2027 no destaque, mas a seção de programação ainda indica 05/09/2026 (provável conteúdo da edição anterior). O link de inscrição pode ser da edição 2026."
+  ],
+  "am-11311": [
+   "Link aponta para edição anterior (2026)"
+  ],
+  "am-11308": [
+   "Cidade divergente: Adventure Mag indica Amapá (AP); o site do organizador indica Macapá (AP)."
+  ],
+  "am-11229": [
+   "Estado não informado pela fonte",
+   "Local a divulgar",
+   "Localização indisponível no mapa: cidade não informada pela fonte"
+  ]
+ }
+}

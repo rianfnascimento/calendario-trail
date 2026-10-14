@@ -1,0 +1,17 @@
+{
+ "_descricao": "Localidades citadas pela fonte que não são municípios (distritos, praias, parques). Cada uma é associada ao município IBGE onde fica. O marcador vai na sede desse município e a prova é exibida como 'localização aproximada'. build_db.py confere a correspondência: as coordenadas publicadas pela Adventure Mag precisam estar a menos de 60 km da sede; senão a associação é descartada.",
+ "localidades": [
+  {"uf": "SP", "localidade": "Horto Florestal", "municipio_ibge": "3550308", "tipo": "parque", "nota": "Parque Estadual Alberto Löfgren (Horto Florestal), na cidade de São Paulo"},
+  {"uf": "SP", "localidade": "Praia de Boraceia", "municipio_ibge": "3506359", "tipo": "praia", "nota": "Praia de Boraceia, em Bertioga"},
+  {"uf": "SP", "localidade": "São Francisco Xavier", "municipio_ibge": "3549904", "tipo": "distrito", "nota": "Distrito de São Francisco Xavier, em São José dos Campos"},
+  {"uf": "BA", "localidade": "Trancoso", "municipio_ibge": "2925303", "tipo": "distrito", "nota": "Distrito de Trancoso, em Porto Seguro"},
+  {"uf": "BA", "localidade": "Praia do Forte", "municipio_ibge": "2921005", "tipo": "distrito", "nota": "Praia do Forte, em Mata de São João"},
+  {"uf": "RJ", "localidade": "Arraial do Sana", "municipio_ibge": "3302403", "tipo": "distrito", "nota": "Distrito do Sana, em Macaé"},
+  {"uf": "MG", "localidade": "Casa Branca", "municipio_ibge": "3109006", "tipo": "distrito", "nota": "Distrito de Casa Branca, em Brumadinho"},
+  {"uf": "MG", "localidade": "Bom Jesus do Madeira", "municipio_ibge": "3125952", "tipo": "distrito", "nota": "Distrito de Bom Jesus do Madeira, em Fervedouro (o nome da prova também cita Fervedouro)"}
+ ],
+ "nao_resolvidas": [
+  {"uf": "ES", "localidade": "Rota Imperial", "motivo": "Roteiro turístico que atravessa mais de um município; não há como escolher um com segurança."},
+  {"uf": "TO", "localidade": "Jalapão", "motivo": "Região que abrange vários municípios; a fonte não indica qual."}
+ ]
+}

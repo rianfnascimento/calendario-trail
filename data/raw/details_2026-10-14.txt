@@ -1,0 +1,259 @@
+11273	-|2026-10-16|2026-10-18|Ilha de Boipeba, Cairu|BA|-|-|-13.611761516987645|-38.94738436755913|-|-
+10448	-|2026-10-17|-|Maratá|RS|L E Eventos|http://www.trilhasemontanhas.com.br|-29.537937719710136|-51.55311758112229|-|-
+10621	-|2026-10-17|2026-10-18|Conceição do Mato Dentro|MG|Brou Aventuras|https://www.brouaventuras.com.br|-19.04619477206771|-43.43243451947539|-|-
+10637	-|2026-10-17|-|Bombinhas|SC|Indomit|http://www.indomit.com.br|-27.164509417754708|-48.50215366509367|-|-
+10673	Nova data|2026-10-17|2026-10-18|Campos do Jordão|SP|World Trail Race|https://worldtrailraces.com.br/|-22.734547292395156|-45.584299126159|-|-
+10733	-|2026-10-17|-|Ubatuba|SP|XKR Outdoor Sports|https://www.desafio28praias.com.br|-23.440269604972944|-45.08946523886438|-|-
+10967	-|2026-10-17|-|Bertioga|SP|Vega Sports|https://ultrabm.com.br/|-23.787447552725453|-46.01837100933908|-|-
+11125	-|2026-10-17|-|Armação dos Búzios|RJ|Tribus|http://www.xcrun.com.br|-22.75981299369731|-41.89412724957232|-|-
+11145	-|2026-10-17|2026-10-17|Praia Grande|SC|Malacara Race|http://www.malacararace.com.br/|-29.19876356131394|-49.95060584646624|-|-
+11172	-|2026-10-17|-|Barão de Cocais|MG|-|https://www.sympla.com.br/evento/trail-run-festival-trindade-sports/3589848|-19.93484724475938|-43.46973536688138|-|-
+10513	-|2026-10-18|-|Cocalzinho de Goiás|GO|Corridas de Montanha|http://www.corridasdemontanha.com.br|-15.781210246676007|-48.778694873572256|-|-
+10576	-|2026-10-18|-|São José|SC|Mountain Do|https://mountaindo.com.br/|-27.6004549254596|-48.60845937817095|-|-
+10690	-|2026-10-18|-|Erechim|RS|Inspira Eco Run|https://inspiraeventos.com.br/|-27.630149941996933|-52.276080349033286|-|-
+10745	-|2026-10-18|-|Horto Florestal|SP|-|-|-23.445426343977|-46.639411638177016|-|-
+10828	-|2026-10-18|-|Vitória da Conquista|BA|-|https://www.races.com.br/caatingatrail-2025|-14.863635307120576|-40.84869569368832|-|-
+10903	-|2026-10-18|-|Nísia Floresta|RN|HTR Trail Run|-|-6.0851703651252045|-35.20028438376099|-|-
+10950	-|2026-10-18|2026-10-18|Lagoinha|SP|-|-|-23.086890312721884|-45.191420057209235|-|-
+11160	-|2026-10-25|-|Caruaru|PE|-|-|-|-|-|-
+11223	Cancelado|2026-11-01|-|Caldeirão Grande do Piauí|PI|-|https://www.ticketsports.com.br/e/CORRIDA+MULUNGU+TRAIL+RUN+2026-88128|-7.338632090136637|-40.64662575502539|-|-
+11032	-|2026-10-18|-|Sapucaia do Sul|RS|-|https://www.apuracrono.com.br/evento/2493/sapuca-trail|-29.81594658024816|-51.142428744814026|-|-
+11088	-|2026-10-18|-|Sabará|MG|-|-|-19.895473442180567|-43.81844223035665|-|-
+11197	-|2026-10-18|-|Nepomuceno|MG|-|https://keepsporting.com/cr/696113cfc1a6c3d7ed3b5e79/desafio-da-serra-radical-roots---etapa-tamandu|-21.2316883915042|-45.24192588396619|-|-
+11222	-|2026-10-18|-|Lajinha|MG|-|https://www.ticketsports.com.br/e/AABB+TRAIL+Run+7K-87601|-20.1551537206506|-41.65487364114023|7K|-
+11231	-|2026-10-18|-|Marília|SP|-|https://giroingressos.com.br/e/10-milhas-cross-country-marilia-sp|-22.227538418722812|-49.959928638551645|10 Milhas|-
+11267	-|2026-10-18|-|Ribeirão Preto|SP|-|-|-21.169318687547317|-47.81082390063117|-|-
+11276	-|2026-10-18|-|Pacatuba|CE|-|-|-3.910885498122593|-38.600196734817516|-|-
+10708	-|2026-10-24|-|Trancoso|BA|Trancoso Running|https://www.trancosorunning.com.br/|-16.60188372048637|-39.099011319211215|-|-
+11206	-|2026-10-24|-|Praia de Boraceia|SP|ZBR Events|https://zbrevents.com.br/|-23.749121097219273|-45.82888247626444|-|-
+11212	-|2026-10-24|2026-10-24|Poços de Caldas|MG|-|https://activesports.com.br/evento-detalhes/ultra-trail-6-horas-de-montanha-6hm/170|-21.78000803534482|-46.57329685433476|-|-
+11038	-|2026-10-25|-|Feira de Santana|BA|Triade Trail Run|https://www.instagram.com/triadetrailrun/|-12.24295881597855|-38.96407218171308|-|-
+11173	-|2026-10-25|2026-10-25|Arraial do Sana|RJ|-|https://www.ticketsports.com.br/e/18-corrida-ecologica-de-sanamacae-rj-maratona-traill-42k-2026-74325|-22.326060454211962|-42.185195853554|-|-
+11174	-|2026-10-25|-|Brasília|DF|Órbita Trail|http://|-15.802571326133371|-47.8814309755121|-|-
+11207	-|2026-10-25|-|Indaiatuba|SP|-|https://www.ticketsports.com.br/e/morro-das-pedras-race-86617|-23.094675359142293|-47.22013140823325|-|-
+11232	-|2026-10-25|2026-10-25|Ubatuba|SP|-|https://www.sympla.com.br/evento/atibaia-run-fest-trail-mode-04-7-praias-ubatuba/3568770|-23.436751335287642|-45.094566029240276|-|-
+10601	-|2026-10-31|2026-10-31|Chapada dos Veadeiros, Alto Paraíso de Goiás|GO|Mountain Do|https://mountaindo.com.br/|-14.08060627027996|-47.47850003532354|-|-
+10684	-|2026-10-31|2026-11-01|Manaus|AM|To Goal Sports Ventures|https://ultratrailamazonica.com.br/|-3.113574107653461|-60.01515584106195|-|-
+11013	-|2026-10-31|-|São Francisco Xavier|SP|-|https://www.instagram.com/muriquitrail|-22.917092691483372|-45.95472102471936|-|-
+11136	-|2026-10-31|2026-10-31|Maresias, São Sebastião|SP|-|-|-23.79364662987012|-45.57116513610298|-|-
+11233	-|2026-10-31|-|Caldas Novas|GO|-|https://sporttimer.com.br/site/eventosel.php?ev=2612|-17.735399099189117|-48.61285357268832|-|-
+10556	-|2026-11-01|2026-11-01|Resende Costa|MG|RTR Trail Run|https://www.instagram.com/rtrtrailrun/|-20.91380253154691|-44.24718202195763|-|-
+10705	-|2026-11-01|-|Londrina|PR|Unimed Off Road|http://|-23.324459391030526|-51.15806076532046|-|-
+10716	2026-11-01|-|Conde|PB|Trail Series|https://www.instagram.com/trailseries.pb/|-7.328411094744318|-34.8056693887537|-|-
+10978	-|2026-11-01|2026-11-01|Santa Isabel|SP|Caveiras Trail|https://caveirastrail.com.br/|-23.2645838398199|-46.34305885923499|-|-
+11106	-|2026-11-01|-|Campos do Jordão|SP|Mantiqueira Cup|https://www.mantiqueiracup.com.br|-22.729174554433737|-45.589559949101755|-|-
+11142	-|2026-11-01|-|Ametista do Sul|RS|-|-|-27.366330427727515|-53.19206832041919|-|-
+11208	-|2026-11-01|-|Areia|PB|TR Explore|https://instagram.com/tr.explore10|-6.958289466706243|-35.706775884688064|-|-
+11224	-|2026-11-01|-|São Gonçalo do Amarante|CE|-|https://www.ticketsports.com.br/e/TA%C3%8DBA+TRAIL+RACE-86883|-3.6015111022743564|-38.958814985276305|-|-
+11234	-|2026-11-01|-|Maceió|AL|-|https://www.realtiming.com.br/evento/2-desafio-santa-lucia-adventure|-9.675610954456829|-35.7294347907981|-|-
+11235	-|01/11/2026|-|Nova Serrana|MG|-|https://www.sympla.com.br/evento/trail-experience/3578043|-19.881414725680703|-44.97692629323355|-|-
+10734	-|2026-11-07|2026-11-07|Bonito|MS|Mountain Do|https://mountaindo.com.br/|-21.12368695635507|-56.49147170424503|-|-
+10644	-|2026-11-07|2026-11-07|Feliz|RS|Audax Trail Tour|http://www.audax4.com.br|-29.44850487382796|-51.315986814183745|-|-
+10812	-|07/11/2026|-|Bonito|MS|G2 Esportes|http://www.g2esportes.com|-21.138649777166627|-56.49601117589423|-|-
+10972	-|2026-11-07|-|Ilhabela|SP|XKR Outdoor Sports|http://www.ktrseries.com.br|-23.815024164123166|-45.365718745445335|-|-
+11134	-|2026-11-07|-|Jacutinga|MG|-|-|-22.28021608142406|-46.61443053204163|-|-
+11164	-|2026-11-07|-|Praia do Forte|BA|Desafio Latitude 12|https://www.desafiolatitude12.com.br/|-12.568311523430076|-38.01090844843139|-|-
+11236	-|07/11/2026|-|Caxias do Sul|RS|Gringos|https://www.instagram.com/gringos_eventos_esportivos/|-29.167347389577433|-51.186578665805285|-|-
+10500	STATUS|2026-11-08|-|Taubaté|SP|Trilhas e Montanhas SP|http://www.trilhasemontanhas.com.br/|-23.020289097173265|-45.56041489992648|-|-
+11108	-|2026-11-08|-|Peruíbe|SP|Chauás|https://www.praiassecretas.com|-24.308073290623952|-46.98190538306122|-|-
+11218	-|2026-11-08|2026-11-08|Pitimbu|PB|-|https://www.race83.com.br/evento/2026/trail-run/caldinho-trail-run|-7.395378143048054|-34.81386876494141|-|-
+11237	-|2026-11-08|-|Timbó|SC|-|https://www.ticketsports.com.br/e/1%C2%BA+DESAFIO+TRAIL+RUN+-+MORRO+ARAPONGAS+TIMB%C3%93+-+SC-88349|-26.815809370846004|-49.284484726019556|-|-
+11238	-|08/11/2026|-|Rio Preto|MG|-|https://www.corridao.com.br/site/corrida/index/2-maratona-trail-run-rio-preto-vila-do-funil.html|-22.095506751853055|-43.82378719992742|-|-
+11239	-|2026-11-08|2026-11-08|Gravataí|RS|-|https://www.ticketsports.com.br/e/9-rustica-de-morungava-naturalfit-84968|-29.93469316311911|-50.98580840583646|-|-
+11240	-|2026-11-08|-|Juquitiba|SP|-|https://www.ticketsports.com.br/e/ANGELS+NEST+TRAIL+RUN+-+3%C2%AA+ETAPA+-87923|-23.935200896270835|-47.08301937309105|-|-
+11241	-|2026-11-08|-|Serra|ES|-|https://www.ticketsports.com.br/e/CORRIDA%20IRON-87007|-20.12139442284|-40.29682869859746|-|-
+11242	-|2026-11-08|-|Catu|BA|-|https://www.centraldasinscricoes.com.br/evento/trilha-da-elite-2026|-12.347477823473207|-38.36423904938816|-|-
+11243	-|2026-11-08|-|Rio Claro|SP|-|https://www.ticketsports.com.br/e/ULTRA+NAVARRO+50K-88106|-22.41087195029281|-47.56424533791698|50k|-
+11258	STATUS|2026-11-08|-|Itaituba|PA|-|https://giroingressos.com.br/e/mr-trail-experience|-4.255299775596637|-55.98416439343714|-|-
+11265	-|2026-11-08|2026-11-08|Monte Alto|SP|-|https://corridaativa.com.br/|-21.25798486372568|-48.49768490616028|-|-
+10449	-|2026-11-14|-|Veranópolis|RS|L E Eventos|http://www.trilhasemontanhas.com.br|-28.9343873443463|-51.560829926975046|-|-
+10514	-|14/11/2026|-|Mateiros|TO|Corridas de Montanha|http://www.corridasdemontanha.com.br|-10.552815674167569|-46.42876371905326|-|-
+10607	-|2026-11-14|2026-11-15|Campos de Goytacazes|RJ|Circuito Adventure Run|https://www.instagram.com/circuitoadventurerun/|-21.76554911962096|-41.31405515670391|-|-
+10636	-|2026-11-14|2026-11-14|Nova Trento|SC|Mons Ultra Trail|https://monsultratrail.com.br/|-27.273282452794504|-48.92027262176867|-|-
+11214	-|2026-11-14|-|Abreu e Lima|PE|-|https://soucorredor.com.br/evento/6474/desafio_em_trilhas_dt%C3%82%C2%B4s_2026_-_etapa_terra/2|-7.89543467145155|-34.90545317814367|-|-
+11217	-|2026-11-14|-|Catas Altas|MG|Desafio Entre Serras|http://desafioentreserras.com.br/|-20.08184173303518|-43.418911324173386|-|-
+11303	-|2026-11-14|-|Parauapebas|PA|-|https://www.chipcarajas.com.br/evento/trailcarajas2026|-6.07109614236535|-49.91321659395467|-|-
+10534	-|2026-11-15|-|Araguari|MG|WOS Warriors Outdoor Sports|http://www.wosbrasil.com.br|-18.655056958743167|-48.198136794553264|-|-
+10603	-|2026-11-15|-|Itacaré|BA|-|https://www.mtrail.com.br|-14.277781717865544|-39.004988065422154|-|-
+10867	-|15/11/2026|-|Maceió|AL|Aputrail|https://www.instagram.com/apuventuras/|-9.664478599198047|-35.73438321557515|-|-
+11018	-|2026-11-15|-|Amparo|SP|-|-|-22.701108026360178|-46.769477921111765|-|-
+11130	-|15/11/2026|-|Paraibuna|SP|-|-|-23.388453130061926|-45.66036796106192|-|-
+11199	-|2026-11-15|2026-11-15|Iporã do Oeste|SC|-|-|-26.997880406126615|-53.534385125323986|-|-
+11216	-|2026-11-15|-|Pirapora do Bom Jesus|SP|-|https://www.sympla.com.br/evento/urban-escape-trail/3565267|-23.426536780814583|-47.01206999966738|-|-
+11251	-|2026-11-15|-|Guarulhos|SP|-|https://www.minhasinscricoes.com.br/Evento/ROTADOPICO-ETAPA4x4RUN|-23.447230080288744|-46.52118625896396|-|-
+11262	-|2026-11-15|-|Crato|CE|-|https://cronoscariri.com.br/event/ii-trailrun-bora-querer|-7.238904473694662|-39.41216960370685|-|-
+11283	-|2026-11-15|-|Bonito|MS|-|https://www.kmaisclube.com.br/eventos/2-desafio-gruta-do-mimoso-6k/PhnxW37cu46jjnI6E084|-21.123834567515768|-56.4816078129241|-|-
+10654	-|2026-11-18|2026-11-22|Bariloche|Río Negro|Valholl Trail Race|https://bariloche.utmb.world|-41.13247161599453|-71.32221099715181|-|-
+10565	-|2026-11-20|2026-11-22|Chuí|RS|Horizontes|http://extremo-sul.com|-33.6826867583854|-53.4586029312839|-|-
+10931	-|2026-11-20|2026-11-21|Luís Correia|PI|Desafio Serra dos Matões|https://www.instagram.com/desafiodeltadoparnaibaultra/|-2.887991857000508|-41.66628481315707|-|-
+11143	-|2026-11-20|-|Monte Bonito, Pelotas|RS|-|-|-31.62974991269079|-52.41724088169213|-|-
+11215	STATUS|2026-11-20|2026-11-22|São Lourenço|MG|Ultra Runner Eventos|https://www.ultrarunnereventos.com.br|-22.12676637196385|-45.04464536436902|-|-
+10481	-|21/11/2026|-|Cochrane|Aisén|Latitud Sur Expedition|http://www.latitudsurexpedition.cl|-47.24072994262435|-72.56640946747291|-|-
+10626	-|2026-11-21|-|Mucugê|BA|Gantuá|https://www.instagram.com/ultratrailchapada/|-13.007684952378336|-41.36980397829553|-|-
+10674	-|2026-11-21|2026-11-22|Vale das videiras, Petrópolis|RJ|World Trail Race|https://worldtrailraces.com.br/|-22.410867501663386|-43.29349582927621|-|-
+10918	-|2026-11-21|-|Porto Alegre|RS|Raiz Trail|https://www.facebook.com/raiztrail/|-30.0273279910977|-51.213280716986404|-|-
+11027	-|21/11/2026|-|Ilhabela|SP|X3M|http://www.xterrabrasil.com.br|-23.805706010157753|-45.3766679877517|-|-
+11037	-|2026-11-22|2026-11-22|Lagoa Santa|MG|Minas Race|https://www.minasrace.com.br|-19.653438242074962|-43.89229940146506|-|-
+11061	-|2026-11-22|-|Concórdia|SC|Concordia Trail|https://www.sympla.com.br/evento/concordia-trail-2024/2399975|-27.220203404278426|-52.02710422157825|-|-
+11152	-|2026-11-22|-|Curvelo|MG|-|https://sertaotrailrun.com.br/|-18.770307177037385|-44.42158366566082|-|-
+11177	-|2026-11-22|-|Araranguá|SC|-|https://www.atletis.com.br/evento/morro-dos-conventos-trail-63|-28.943134184325253|-49.478348105521164|-|-
+11178	-|2026-11-22|-|Castanhal|PA|-|https://app.sprinta.com.br/e/ultra-trail-hb-5okm---voce-foi-o-escolhido_1f35|-1.2961842366837983|-47.920843371285876|-|-
+11256	-|2026-11-22|-|Santa Cruz de Minas|MG|-|https://www.corridao.com.br/site/corrida/index/3-vertentes-trail-run-edicao-caracara.html|-21.12148703563931|-44.235010773741315|-|-
+11257	-|2026-11-22|2026-11-22|Lavras|MG|-|https://keepsporting.com/cr/6aabdd5c3619925b0862432a/-|-21.23804054713941|-44.98799904071867|-|-
+11263	-|2026-11-22|-|Crato|CE|-|https://cronoscariri.com.br/event/-desafio-crato-raizes-do-araripe-2026|-7.223825572852299|-39.41359518584502|-|-
+11266	-|2026-11-22|-|Guarani|MG|-|-|-21.34835859586033|-43.0525416440249|-|-
+11084	-|2026-11-27|2026-11-29|Castelo|ES|Insanity Mountain|http://www.insanitymountain.com.br|-20.611933685774268|-41.21440087280151|-|-
+10586	Nova data|28/11/2026|-|-|AL|Copa Alagoas Corrida e Trilha|https://linktr.ee/cactoalagoas|-9.574458816445235|-36.78676841449941|-|-
+10695	-|2026-11-28|-|Ubajara|CE|Desafio Vertical|https://instagram.com/desafioverticalsports|-3.852804393781063|-40.9268595527836|-|-
+10929	-|2026-11-28|-|Caruaru|PE|Aclive Sports|https://www.instagram.com/trunseries/|-8.13367055339964|-36.035694929739016|-|-
+10550	-|2026-11-29|2026-11-29|Mairiporã|SP|Circuito Cantareira de Montanha|https://instagram.com/circuitocantareira/|-23.316526136497156|-46.57723421146953|-|-
+10592	-|2026-11-29|-|-|AL|Trail Run Paradise|https://www.instagram.com/trailrunparadise|-|-|-|-
+10599	-|2026-11-29|-|Rondonópolis|MT|Ultramacho|https://beacons.ai/ultramacho|-16.46324231096683|-54.63255005296808|-|-
+11058	-|2026-11-29|2026-11-29|Itamonte|MG|Loucos por Montanha|https://www.facebook.com/circuitodecorridasloucospormontanhas|-22.278582465410743|-44.8747564755003|-|-
+11078	-|2026-11-29|-|Valinhos|SP|Valinhos Trail Running|https://www.greciaproducoes.com.br|-22.941422406484|-46.95999194155326|-|-
+11157	-|2026-11-29|2026-11-29|Bom Jardim da Serra|SC|-|-|-28.412925478230935|-49.57506311929508|-|-
+11255	-|2026-11-29|-|Campos dos Goytacazes|RJ|-|https://esportecorrida.com.br/v3/evento.php?evt=2567|-21.760105139427633|-41.312373692422284|-|-
+11291	-|29/11/2026|-|Santo Antônio de Posse|SP|-|https://www.ticketsports.com.br/e/REGENERA+RUN+2026-88230|-22.60174157862036|-46.914557805263385|-|-
+10608	-|2026-12-05|-|Campos de Goytacazes|RJ|Circuito Adventure Run|https://www.instagram.com/circuitoadventurerun/|-21.76554911962096|-41.31405515670391|-|-
+10732	-|2026-12-05|-|Ubatuba|SP|XKR Outdoor Sports|http://www.ktrseries.com.br|-23.423229074902107|-45.080556339027574|-|-
+10895	-|2026-12-05|2026-12-11|Bariloche|AR|Club de Corredores|https://elcruce.com.ar/|-41.13231072295375|-71.30293632941957|-|-
+11192	-|2026-12-05|2026-12-05|Camaçari|BA|-|https://www.corridasjardelmoura.com.br/evento/boaventura-trail-run|-12.700323555805259|-38.32829382052494|-|-
+10501	-|2026-12-06|-|Pindamonhangaba|SP|Trilhas e Montanhas SP|http://www.trilhasemontanhas.com.br/|-22.915826204648756|-45.459869871723555|-|-
+10729	-|2026-12-06|-|Joanópolis|SP|Ladeiras Trail|https://www.instagram.com/ladeirasdapenha/|-22.926899512163843|-46.27868431234988|-|-
+10899	-|2026-12-06|-|Santana do Riacho|MG|Cipó Correria Trail|https://instagram.com/cipocorreriatrail|-19.177686011146598|-43.70314744982821|-|-
+11259	-|2026-12-06|-|Campos Gerais|MG|-|-|-21.22982119397301|-45.76934907058231|-|-
+10912	Nova data|2026-12-09|2026-12-14|Merzouga|MA|Mountain Do|https://mountaindo.com.br/trail-run/mountain-do-deserto-do-sahara/|31.069860066637656|-4.011652085117237|-|-
+10685	STATUS|2026-12-11|2026-12-13|Casa Branca|MG|-|https://www.boipretoultra.com.br|-20.09535876542076|-44.05724126973581|-|-
+10663	-|2026-12-12|2026-12-12|Palhoça|SC|PDA Esportes|https://www.pdaesportes.com.br/pontadopapagaiobeachrun|-27.833227290533404|-48.58913831263026|-|-
+10851	-|2026-12-12|-|Baía das Pedras, Aquidauana|MS|Bolt Realizações|https://www.boltrealizacoes.com.br/|-19.25841327296653|-55.781957628273055|-|-
+11006	-|2026-12-13|-|-|PR|Trail in Motion|https://www.proativeventos.com.br/trail-in-motion|-|-|-|-
+11102	-|2026-12-13|2026-12-13|Araçariguama|SP|Araçari Trail Fest|https://instagram.com/aracaritrailfest|-23.428749946109694|-47.06222210212591|-|-
+11161	-|2026-12-13|-|Vitória da Conquista|BA|-|-|-14.84701633882503|-40.84415433090434|-|-
+11163	-|2026-12-13|-|Barbalha|CE|-|-|-7.323121331577567|-39.43701496967139|-|-
+11190	-|2026-12-13|-|Paraty|RJ|Move Eventos|https://www.moveeventos.com|-23.22961428067868|-44.717408352759634|-|-
+11191	-|13/12/2026|-|Estância Santa Fé, Chapada dos Guimarães|MT|-|https://clickaqui.app.br/#/evento/rota-do-desbravador-2026|-15.423535684337484|-55.72980807900513|-|-
+11205	-|2026-12-13|-|Casserengue|PB|-|-|-6.789848950667185|-35.81086525658744|-|-
+11213	-|2026-12-13|-|Ilha de Itamaracá|PE|-|https://www.race83.com.br/evento/2026/trail-run/desafio-milhas-trilhos-trilhas-dmtt|-7.737803254267763|-34.82921415327119|-|-
+11254	-|2026-12-13|-|Ibicuí|BA|-|https://www.races.com.br/brutostrail|-14.851544412287753|-39.98701125283837|-|-
+10779	-|2026-12-20|-|Jambeiro|SP|Eu na Montanha|https://www.instagram.com/eu_na_montanha/|-23.24609065465074|-45.69004005380076|-|-
+10875	-|2026-12-20|-|Ilhéus|BA|-|-|-14.805939384407269|-39.02722058544723|-|-
+10951	-|20/12/2026|-|Lagoinha|SP|-|-|-23.08949684838684|-45.2463039590553|-|-
+11179	-|2026-12-20|-|Cascavel|PR|-|https://www.ticketsports.com.br/e/1a-trail-run-cascavel-2026-87471|-24.964678433336232|-53.49202792191213|-|-
+11189	-|2026-12-20|-|Santa Teresinha|BA|-|https://www.centraldasinscricoes.com.br/evento/2026/trail-run/upp-trail-run|-12.761593241033136|-39.5133143227393|-|-
+11290	-|2026-12-20|-|Ponta Grossa|PR|-|https://www.ticketsports.com.br/e/TRAIL+RUN+-+BURACO+DO+PADRE+-88704|-25.108495133655765|-50.16142281660117|-|-
+11253	-|2026-12-27|-|Palhoça|SC|-|https://www.ticketsports.com.br/e/TRAIL+RUN+TRILHAS+DO+BAIXIO-88287|-27.83164880084509|-48.598630053370975|-|-
+11139	-|2027-01-10|-|-|-|Raveli Sports|https://www.ravelisports.com/|-|-|-|-
+11292	-|2027-01-10|-|Castanhal|PA|-|https://app.sprinta.com.br/e/3108136a3c072a2003f|-1.2873813289384022|-47.92087140226503|-|-
+11100	2027-01-14|2027-01-17|Serra da Estrela, Seia|-|Horizontes|https://horizontes.pt/terra-de-gigantes/|40.31094236872142|-7.604579704755655|-|-
+11211	-|2027-01-16|-|Cabedelo|PB|-|https://www.race83.com.br/evento/2027/trail-run/ecorun-2027|-6.9636506947123795|-34.831623316783244|-|-
+11066	-|2027-01-17|-|Fazenda Taboquinha, Brasília|DF|Corridas de Montanha|http://www.corridasdemontanha.com.br|-15.867622402021937|-47.802357979856026|-|-
+10806	-|2027-01-17|-|Rio Preto|MG|Trail Race Rio Preto|https://www.facebook.com/trailraceriopreto/|-22.093169374146235|-43.81627019613635|-|-
+11064	-|2027-01-24|2027-01-24|Araruna|PB|-|https://www.instagram.com/agreste_extremo/|-6.528390773332136|-35.74072806766411|-|-
+11158	-|2027-01-24|-|Holambra|SP|-|-|-22.636193054415482|-47.04907172532902|-|-
+11188	-|2027-01-24|-|Iramaia|BA|-|https://momentomajestoso.com.br/evento/corrida-da-gruta-de-iramaia/|-13.296459623902313|-40.96960618383943|-|-
+11067	-|31/01/2027|-|Campos do Jordão|SP|Corridas de Montanha|http://www.corridasdemontanha.com.br|-22.740063196413747|-45.58395263479965|-|-
+11201	-|2027-01-31|-|-|PB|-|-|-|-|-|-
+11309	-|31/01/2027|31/01/2027|Itupeva|SP|-|-|-23.154393198802534|-47.05121378740565|-|-
+10984	-|2027-02-20|-|Passa Quatro|MG|Ultra Runner Eventos|https://ultrarunnereventos.com.br/|-22.380114444163155|-44.96954138943431|-|-
+11140	-|2027-02-21|-|Bragança|PA|-|-|-1.057996204581413|-46.76667306780984|-|-
+11226	-|21/02/2027|-|-|-|Aputrail|https://www.instagram.com/apuventuras/|-|-|-|-
+11289	-|2027-02-21|-|Borda da Mata|MG|-|https://maisinscricoes.com.br/inscricoes/3o-desafio-pedra-do-retiro/|-22.260516994422723|-46.16206243764375|-|-
+11187	-|2027-02-27|-|Santa Cruz Cabrália|BA|Beto Boareto|https://www.desafiododescobrimento.com.br/|-16.274263418080814|-39.01599730089861|-|-
+11275	-|2027-02-27|2027-02-28|Joanópolis|SP|Roots Racing|https://www.rootsracing.club/festivalguarulhosecoesporte|-22.922129346864764|-46.2753278847944|-|-
+11083	-|2027-03-04|2027-03-07|Barão de Cocais|MG|Cambotas Trail Fest|https://www.cambotastrailfest.com.br/|-19.863734503334964|-43.45707305023966|-|-
+11087	-|2027-03-04|2027-03-07|Alto Caparaó|MG|Insanity Mountain|http://www.insanitymountain.com.br|-20.45982534619831|-41.87693999466691|-|-
+11219	-|2027-03-06|-|Rosário da Limeira|MG|Mirante Trail|-|-20.98123720724247|-42.51657749669041|-|-
+11180	-|2027-03-06|-|Poções|BA|-|https://www.races.com.br/2-edicao-barba-run|-14.526288724985042|-40.374310982094954|-|-
+11198	-|06/03/2027|-|Curvelo|MG|-|https://www.sympla.com.br/evento/sertao-trail-run-2027/3565648|-18.7685987885423|-44.42393074500103|-|-
+11114	-|2027-03-12|2027-03-14|Puebla|Pue.|-|https://lnk.bio/ElCrucedelosVolcanes|19.050368706495156|-98.2045828683565|-|-
+11122	-|2027-03-13|-|Imaruí|SC|On Sports|https://www.instagram.com/imarui_ultratrail/|-28.332283606678512|-48.817654814080065|-|-
+11186	STATUS|13/03/2027|-|Bonito|PE|-|https://www.chipower.com.br/evento/2027/trail-run/elements-trail-run-2027|-8.465947246670911|-35.717739558824164|-|-
+11246	-|2027-03-13|-|Rio de Janeiro|RJ|World Trail Race|https://worldtrailraces.com.br/|-22.960862413563778|-43.280620270985914|-|-
+11068	-|2027-03-14|-|Corumbá de Goiás|GO|Corridas de Montanha|http://www.corridasdemontanha.com.br|-15.837481316010003|-48.763539853139584|-|-
+11184	-|2027-03-14|-|Divinópolis|MG|-|https://www.minhasinscricoes.com.br/Evento/XXIIICorridaRusticadaPMMGemDivinopolis|-20.144995888428287|-44.88230322185235|-|-
+11185	-|2027-03-14|-|Divinópolis|MG|-|https://www.minhasinscricoes.com.br/Evento/XXIIICorridaRusticadaPMMGemDivinopolis|-20.144995888428287|-44.88230322185235|-|-
+11305	-|2027-03-14|2027-03-14|Colônia do Sacramento|UY|Mountain Do|http://www.mountaindo.com.br|-34.46280581761739|-57.840931238045286|-|-
+10991	-|2027-03-18|2027-03-20|São Bento do Sapucaí|SP|Indomit|https://www.indomit.com.br|-22.667956704636524|-45.7157805309962|-|-
+11181	-|2027-03-21|-|Igaratá|SP|ZBR Events|https://igt23k.com.br|-23.195386272610023|-46.154121737933295|-|-
+11182	-|2027-03-27|-|Mucugê|BA|Corrida do Diamante|https://www.instagram.com/corridadodiamante.mucuge/|-12.99828824317943|-41.370749598473374|-|-
+11200	STATUS|2027-04-02|2027-04-03|Quatro Barras|PR|GL Promo Eventos Esportivos|https://thehillrace.com.br/|-25.365288805116098|-49.07598015209166|-|-
+10977	-|2027-04-03|-|Cochrane|Aisén|Latitud Sur Expedition|http://www.latitudsurexpedition.cl|-47.24072994262435|-72.56640946747291|-|-
+11099	-|2027-04-03|-|São Geraldo|MG|Mirante Trail|https://www.instagram.com/mirantetrail/|-20.934153431300757|-42.83231407676516|-|-
+11103	-|2027-04-03|-|Araxá|MG|Forrest Run|http://www.forrestrun.com.br|-19.589888828669793|-46.94986986724502|-|-
+11149	-|2027-04-03|-|Estância Ouro Fino, Campo Largo|PR|TRC Brasil|https://lmproevento.com.br/|-25.330617475155364|-49.50333149448319|-|-
+11183	-|2027-04-03|-|Imbituba|SC|Mountain Do|https://mountaindo.com.br/trail-run/mountaindopraiadorosa/|-28.232656740258296|-48.65630410832785|-|-
+11017	-|2027-04-04|-|Gonçalves|MG|-|-|-22.651453301940712|-45.847043805812056|-|-
+11202	-|2027-04-04|-|Araruna|PB|-|-|-6.517449757764835|-35.75318354451691|-|-
+10975	-|2027-04-09|2027-04-10|Campos do Jordão|SP|XKR Outdoor Sports|http://www.ktrseries.com.br|-22.75138760532295|-45.60596882921088|-|-
+11210	-|2027-04-11|-|Livramento de Nossa Senhora|BA|-|https://www.races.com.br/100-trail-run-20260724135845|-13.632087533216316|-41.84312730578765|-|-
+11260	-|2027-04-11|-|Livramento de Nossa Senhora|BA|-|https://www.races.com.br/100trailrun2027|-13.643008338974594|-41.8532080510074|-|-
+10947	-|2027-04-15|2027-04-17|Farroupilha|RS|Ultramaratona Caminhos de Caravaggio|http://ultracaminhosdecaravaggio.com.br/|-29.22211946878791|-51.339011161079924|-|-
+11082	-|2027-04-16|2027-04-18|Maracás|BA|-|-|-13.430437103841848|-40.44546442822068|-|-
+11015	-|2027-04-17|2027-04-18|Itajubá|MG|-|-|-22.43610212936825|-45.44973757958192|-|-
+11069	-|2027-04-18|-|São José dos Campos|SP|Corridas de Montanha|http://www.corridasdemontanha.com.br|-23.22808517542594|-45.8888062058318|-|-
+11120	-|24/04/2027|-|São José dos Ausentes|RS|On Sports|-|-28.75678301585881|-50.059197167229534|-|-
+11277	-|24/04/2027|-|Ubatuba|SP|XKR Outdoor Sports|https://www.desafio28praias.com.br|-23.440269604972944|-45.08946523886438|-|-
+11288	-|2027-04-25|-|Uberaba|MG|-|https://sportbro.com.br/v3/desafio-geoparque-2027-etapa-1-dino-trail-run|-19.7481696100655|-47.93830474195844|-|-
+10986	-|2027-05-01|-|Ibiá|MG|Bocaina Park Trail|https://www.bocainaparktrail.com.br/|-19.71984475084595|-46.80596430098474|-|-
+11001	-|2027-05-01|-|Passa Quatro|MG|Haka Race|http://www.hakarace.com|-22.3830339474511|-44.95624256544107|-|-
+11036	-|2027-05-01|2027-05-02|Urubici|SC|Mons Ultra Trail|https://monsultratrail.com.br/|-28.019971197694822|-49.585349578595064|-|-
+11247	-|2027-05-01|-|Arraial do Cabo|RJ|World Trail Race|https://worldtrailraces.com.br/|-22.96496552559755|-42.02141666307207|-|-
+11156	-|2027-05-02|-|Rota Imperial|ES|Trail Race Fast|-|-20.268986791633573|-41.074870849331774|-|-
+11245	-|02/05/2027|-|Santa Rita do Sapucaí|MG|Murano Eventos Esportivos|https://www.portaldascorridas.com.br/event-details/dinossauros-tail-run-1|-22.25152355356442|-45.69900103697251|-|-
+11023	-|2027-05-07|2027-05-09|Ibicoara|BA|Base Trail Run|https://www.sympla.com.br/evento/base-trail-run-ibicoara-chapada-diamantina/1498943|-13.409125592107497|-41.27628102351985|-|-
+10999	-|2027-05-13|2027-05-16|Atibaia|SP|Pedra Grande Trail Runners|https://pgutc.com.br/|-23.123346336815587|-46.56475753407519|-|-
+11129	-|2027-05-14|2027-05-16|Paraisópolis|MG|Savage Brasil Series|https://www.ticketsports.com.br/e/savage-brasil-series-86376|-22.544775825656593|-45.78704643779102|-|-
+11123	-|2027-05-15|-|Antônio Carlos|SC|On Sports|https://instagram.com/onsportsoficial|-27.526344602631216|-48.780381600670644|-|-
+11131	-|16/05/2027|-|Taubaté|SP|LPTR Loucos por Trail Run|https://linktr.ee/desafio_loucosportrailrun|-23.0142532171647|-45.558896075082494|-|-
+11070	-|16/05/2027|-|Cavalcante|GO|Corridas de Montanha|http://www.corridasdemontanha.com.br|-13.79306494143774|-47.45062634902448|-|-
+11264	-|16/05/2027|-|Maria da Fé|MG|Corrida nos Olivais|http://corridanosolivais.com.br/|-22.312810474692167|-45.37821470743138|-|-
+10994	-|2027-05-20|2027-05-22|Delfinópolis|MG|XKR Outdoor Sports|http://www.ktrseries.com.br|-20.497687705559276|-46.53357808067597|-|-
+11310	-|2027-05-22|-|Bom Jesus do Madeira|MG|Mirante Trail|-|-20.736169606473133|-42.42039330217637|-|-
+11252	-|23/05/2027|-|São Bento do Sapucaí|SP|-|https://www.mountainfestival.com.br/|-22.676004326456564|-45.74109297465793|-|-
+11030	-|2027-05-26|2027-05-30|Delfinópolis|MG|XKR Outdoor Sports|http://www.ktrseries.com.br|-20.497687705559276|-46.53357808067597|-|-
+11176	-|2027-05-29|-|Guaraqueçaba|PR|-|https://www.correrenadar.com.br/evento/ultra-guaraquecaba-126k-80k-52k-42k/|-25.291460472233318|-48.34041275547416|-|-
+11304	-|2027-06-05|-|-|-|Mountain Do|https://mountaindo.com.br/trail-run/mountain-do-deserto-do-sahara/|-22.957313809582466|18.494149687709232|-|-
+11039	-|2027-06-06|-|Serrinha|BA|-|-|-11.662726126322646|-39.018877293683985|-|-
+10997	-|2027-06-12|2027-06-19|Jalapão|TO|Horizontes|https://horizontes.pt/jalapao/|-10.286705713971775|-46.74866611768475|-|-
+11227	-|2027-06-13|-|-|-|Aputrail|https://www.instagram.com/apuventuras/|-|-|-|-
+11090	-|19/06/2027|-|São Bento do Sapucaí|SP|Desafio Deus Me Livre|https://www.instagram.com/amaldicaodocorposeco/|-22.691594105941896|-45.724184644523305|-|-
+11126	-|2027-06-19|-|Araponga|MG|-|https://www.instagram.com/ultrabrigadeiro/|-20.67683347020757|-42.516779094787715|-|-
+11146	-|2027-06-19|-|Paulo Lopes|SC|-|https://instagram.com/pdrtrailsports/|-27.962773659263544|-48.68992626700647|-|-
+11071	-|20/06/2027|-|São José do Barreiro|SP|Corridas de Montanha|http://www.corridasdemontanha.com.br|-22.64447290881879|-44.56819259014005|-|-
+11244	-|2027-06-20|-|São Pedro de Alcântara|SC|-|https://www.ticketsports.com.br/e/CORRIDA+TRAIL+TRILHA+DAS+BRUXAS+2027-88328|-27.565582981741038|-48.80711130213259|-|-
+11248	-|2027-06-26|-|Itatiaia|RJ|World Trail Race|https://worldtrailraces.com.br/|-22.480559980809204|-44.56716406265027|-|-
+11072	-|2027-06-27|-|Alto Paraíso de Goiás|GO|Mountain Do|https://mountaindo.com.br/|-14.121814854012065|-47.50643019788139|-|-
+11059	-|2027-07-01|2027-07-04|Itamonte|MG|Ecooutdoor|https://terrasaltastrailrun.com.br/|-22.280575069027606|-44.877380230739085|-|-
+11060	-|2027-07-02|2027-07-03|Diamantina|MG|Espinhaço Eco Aventura|https://www.espinhacoecoaventura.com.br/|-18.242058413574767|-43.59218618404906|80 km;50 km;24 km;16 km;10 km|-
+11080	-|2027-07-03|2027-07-04|Ouro Preto|MG|-|https://instagram.com/esqueceopace|-20.412103405458804|-43.5031979090816|-|-
+11124	-|2027-07-09|2027-07-10|Canindé de São Francisco|SE|Xingó Trail Run|https://www.xingotrailrun.com.br/|-9.655313605953774|-37.787617297226326|-|-
+11307	-|2027-07-10|-|Florianópolis|SC|Mountain Do|https://mountaindo.com.br/trail-run/mountain-do-costao-do-santinho/|-27.605898357938273|-48.549475936703004|-|-
+11148	-|17/07/2027|-|Tijucas do Sul|PR|TRC Brasil|https://lmproevento.com.br/|-25.920076433468065|-49.17748837317334|-|-
+11153	-|2027-07-17|-|Miradouro|MG|Mirante Trail|-|-20.88088238845339|-42.33745265103148|-|-
+11175	2027-07-17|2027-07-18|Cataguases|MG|KTA Trail Run|https://www.ktatrailrun.com/|-21.38235186249836|-42.690350245983176|-|-
+11209	-|2027-07-17|2027-07-17|São Roque|SP|-|https://www.ravelisports.com.br/evento/2027/trail-run/3-edicao-o-castelo-trail-run|-23.52078532392859|-47.133236036615536|-|-
+11225	-|2027-07-17|-|Águas da Prata|SP|-|https://www.ticketsports.com.br/e/7%C2%AA+ETAPA+GUAR%C3%81+TRAIL+RUN+2027-88389|-21.95392327152088|-46.722493115560276|-|-
+11073	-|18/07/2027|-|Campinas|SP|Corridas de Montanha|http://www.corridasdemontanha.com.br|-22.90960450776838|-47.0568220151203|-|-
+11269	-|24/07/2027|-|Santo Antônio do Pinhal|SP|-|-|-22.823642118247395|-45.673542016479765|-|-
+11302	-|2027-08-07|2027-08-07|Ushuaia|-|Mountain Do|http://www.mountaindo.com.br|-54.81585338219752|-68.30647464503375|-|-
+11268	-|2027-08-08|-|Paulo Lopes|SC|On Sports|-|-27.973359501919198|-48.69348979352692|-|-
+11035	-|2027-08-12|2027-08-15|Araxá|MG|CIMTB Copa Internacional de Mountain Bike|http://www.cimtb.com.br|-19.58576387254219|-46.94397737050753|-|-
+11128	-|2027-08-12|2027-08-14|Passa Quatro|MG|Guri Aznarez|http://www.lamisionbrasil.com.br|-22.37884769800373|-44.97787609198709|-|-
+11154	-|21/08/2027|-|Ervália|MG|Mirante Trail|https://www.sympla.com.br/evento/brigadeiro-trail-fervedouro-mg/3304117|-20.829571564939226|-42.64832738233211|-|-
+11228	-|2027-08-22|-|-|-|Aputrail|https://www.instagram.com/apuventuras/|-|-|-|-
+11203	-|29/08/2027|-|-|PB|-|-|-|-|-|-
+11151	-|2027-09-11|-|Laguna|SC|Ekonova Adventure|https://desafiorotadabaleia.com.br/|-28.476101178344788|-48.77591670263066|-|-
+11249	-|2027-09-11|-|Poços de Caldas|MG|World Trail Race|https://worldtrailraces.com.br/|-21.793257548543703|-46.5654340243329|-|-
+11270	-|2027-09-11|-|Bodoquena|MS|Bolt Realizações|https://corridaserradabodoquena.com.br|-20.723471371280294|-56.72977869382424|-|-
+11306	-|2027-09-11|-|Fernando de Noronha|PE|Mountain Do|https://mountaindo.com.br/|-3.842948311117|-32.42043763111409|-|-
+11074	-|2027-09-19|-|Mairiporã|SP|Corridas de Montanha|http://www.corridasdemontanha.com.br|-23.324438392159966|-46.59738717180645|-|-
+11287	-|2027-09-23|2027-09-26|Paraty|RJ|Paraty Brazil by UTMB|https://paraty.utmb.world/pt|-23.210895458472503|-44.70742637130921|-|-
+11016	-|2027-09-25|-|Torres del Paine|CL|Racing Patagonia|https://www.ultrapaine.com|-51.00596331510823|-72.99465468706366|-|-
+11311	-|2027-09-25|-|Santo Amaro do Maranhão|MA|-|https://www.ticketsports.com.br/e/lenis-maranhenses-trail-2026-86000|-2.5010875397805448|-43.2599560049728|-|-
+11308	-|2027-09-26|-|-|AP|Mountain Do|https://mountaindo.com.br/|2.0443486596741782|-50.782784059528424|-|-
+11159	-|2027-10-16|-|Araxá|MG|-|https://instagram.com/terrasrarastrail|-19.57824598746307|-46.95663227047179|-|-
+11075	-|2027-10-17|-|Cocalzinho de Goiás|GO|Corridas de Montanha|http://www.corridasdemontanha.com.br|-15.781210246676007|-48.778694873572256|-|-
+11250	-|2027-11-06|-|Campos do Jordão|SP|World Trail Race|https://worldtrailraces.com.br/|-22.72931436943818|-45.60420103615336|-|-
+11204	-|2027-11-07|-|Areia|PB|-|-|-6.98075559365241|-35.69665966334254|-|-
+11229	-|2027-11-07|-|-|-|Aputrail|https://www.instagram.com/apuventuras/|-|-|-|-
+11076	-|20/11/2027|-|Mateiros|TO|Corridas de Montanha|http://www.corridasdemontanha.com.br|-10.552815674167569|-46.42876371905326|-|-
